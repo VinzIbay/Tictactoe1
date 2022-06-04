@@ -19,3 +19,19 @@ private void gameToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }
+ private void gameToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Made By Ibay", "Tic Tac Toe About");
+        }
+
+        private void exitGmeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button_Click(object sender, EventArgs e)
