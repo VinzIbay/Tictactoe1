@@ -15,3 +15,7 @@ namespace tictactoe
         {
 
         }
+private void gameToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
